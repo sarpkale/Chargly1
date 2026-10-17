@@ -7619,7 +7619,7 @@ n=m}s.a_S(new A.v4(p,B.DT,o,n,l))
 s.Lq()},
 Yv(a){var s=0,r=A.T(t.N),q,p,o,n,m
 var $async$Yv=A.U(function(b,c){if(b===1)return A.Q(c,r)
-for(;;)switch(s){case 0:p=A.hj("http://127.0.0.1:8000/suggest")
+for(;;)switch(s){case 0:p=A.hj("https://chargly-api-1.onrender.com/suggest")
 o=t.N
 n=A.aq(["Content-Type","application/json"],o,o)
 s=3
